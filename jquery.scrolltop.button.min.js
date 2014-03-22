@@ -1,5 +1,5 @@
 /*!
- * jQuery Scrolltop button plugin v1.0.0
+ * jQuery Scrolltop button plugin v1.0.1
  * jQuery plugin that adds a fading "back to top" button to a page
  *
  * https://github.com/danieledesantis/jquery-scrolltop-button
