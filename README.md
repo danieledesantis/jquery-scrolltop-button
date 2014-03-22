@@ -28,7 +28,7 @@ Initialize the plugin
 
 ```javascript
 $(window).load(function() {
-		$('#my_button').scrollToTopButton();
+		$('#my_button').scrollTopButton();
 });
 ```
 
@@ -54,7 +54,7 @@ Default: 0
 ```javascript
 $(window).load(function() {
 		
-		$('#my_button').scrollToTopButton({
+		$('#my_button').scrollTopButton({
 			scrollHeight         : 800,
 			scrollDuration       : 1000,
 			customCss            : 1 // Define your custom styles for the button in your css file	
