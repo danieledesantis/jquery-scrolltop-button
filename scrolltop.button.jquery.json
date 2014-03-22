@@ -1,5 +1,5 @@
 {
-    "name": "scrolltop-button",
+    "name": "scrolltop.button",
     "version": "1.0.0",
     "title": "jQuery Scrolltop button",
     "author": {
@@ -19,8 +19,8 @@
     "description": "jQuery plugin that adds a fading 'back to top' button to a page",
     "keywords": [
         "scrolltop",
-		"scroll to top",
-		"back to top",
+		"scrolltotop",
+		"backtotop",
         "button"
     ]
 }
